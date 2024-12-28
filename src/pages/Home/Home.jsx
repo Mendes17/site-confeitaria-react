@@ -1,7 +1,7 @@
 import Slider from "../../components/Swiper/Slider";
 import TextBox from "../../components/TextBox/TextBox";
 import Ifood from "../../components/IFood/Ifood";
-import Description from "../../components/Description/Description";
+import Description from "../../components/description/Description";
 
 function Home() {
   return (
